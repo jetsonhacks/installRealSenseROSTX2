@@ -1,6 +1,7 @@
 # installRealSenseROSTX2
-Install the Intel RealSense ROS package on the NVIDIA® Jetson TX2
-The installLibRealSenseROS script install librealsense and realsense as ROS packages. These scripts have been tested with a RealSense R200 camera.
+Install the Intel RealSense Camera package for ROS on the NVIDIA Jetson TX2
+
+The installLibRealSenseROS script will install librealsense and realsense_camera as ROS packages. These scripts have been tested with a RealSense R200 camera.
 
 This is the third step of a three step process.
 
