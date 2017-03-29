@@ -13,7 +13,7 @@ The launch files are located in the launch directory, for example:
 
 Open a new terminal:
 
-$ cd jetsonbot
+$ cd <catkin_workspace name>
 $ source devel/setup.bash
 $ roscd realsense_camera
 $ roslaunch realsense_camera r200_nodelet_rgbd.launch
@@ -22,7 +22,7 @@ Then run rviz:
 
 Open a new terminal:
 
-$ cd jetsonbot
+$ cd <catkin_workspace name>
 $ source devel/setup.bash
 $ roscd realsense_camera
 $ rviz -d rviz/realsense_rgbd_pointcloud.rviz 
