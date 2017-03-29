@@ -25,7 +25,7 @@ Open a new terminal:
 $ cd jetsonbot
 $ source devel/setup.bash
 $ roscd realsense_camera
-rviz -d rviz/realsense_rgbd_pointcloud.rviz 
+$ rviz -d rviz/realsense_rgbd_pointcloud.rviz 
 
 
 
