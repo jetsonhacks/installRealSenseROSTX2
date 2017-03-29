@@ -1,6 +1,6 @@
 #!/bin/bash
-# Install the Intel Realsense library librealsense on a Jetson TX1 Development Kit
-# Copyright (c) 2016 Jetsonhacks 
+# Install the Intel Realsense library librealsense on a Jetson TX2 Development Kit
+# Copyright (c) 2017 Jetsonhacks 
 # MIT License
 # Usage:
 # ./installLibRealSense.sh <catkin workspace>
